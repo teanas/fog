@@ -1,0 +1,11 @@
+{
+	"cassandraHost1":"ec2-34-242-223-182.eu-west-1.compute.amazonaws.com",
+	"cassandraHost1Private":"172.31.42.121",
+	"cassandraHost2":"ec2-34-247-183-11.eu-west-1.compute.amazonaws.com",
+	"cassandraHost2Private":"172.31.45.7",
+	"ycsbHost":"ec2-34-249-116-8.eu-west-1.compute.amazonaws.com",
+	"username":"ec2-user",
+	"keyfile":"cassandraAWSBenchmark.pem",
+	"results":"results/",
+	"bucket":"cassandra.benchmark.aws"
+}
